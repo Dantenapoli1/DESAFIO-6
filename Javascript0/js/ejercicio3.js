@@ -1,4 +1,4 @@
-console.log("----- Ejercicio c -----");
+console.log("----- Ejercicio 3 -----");
 
 
 var cantidadDeGatos = 10;
